@@ -3,5 +3,5 @@ There is just one script called run_analysis.R and one code book describing it. 
 
 1. Download the data set
 2. Read the data
-3 Manipulate the data and do transformations
+3. Manipulate the data and do transformations
 4. Write output data to a CSV file
